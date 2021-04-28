@@ -2,9 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app
 
-#Acesse meu PrjecyOne online:
+-------------------------------------------------------------------------------------------------
+
+Access my ProjectOne online:
 
 https://serene-lewin-ce17ee.netlify.app/
+
+-------------------------------------------------------------------------------------------------
 
 ## Available Scripts
 
